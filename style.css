@@ -62,6 +62,8 @@ h1 {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
+	background-color: lightgrey;
+	background-blend-mode: multiply;
 	min-height: 90px;
 	padding: 10px;
 	border-top: 1px solid white;
